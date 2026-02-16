@@ -30,4 +30,4 @@ A complete restaurant management solution built with ASP.NET Core MVC and SQL Se
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Restaurant-Management-System.git
+   git clone https://github.com/Martha-M3/Restaurante-WebApplication.git
